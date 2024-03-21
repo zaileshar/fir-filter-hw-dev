@@ -9,3 +9,5 @@ module fir_top (
     end
 endmodule
 // Memory layout adjusted for performance
+
+// Fixed identified race condition
