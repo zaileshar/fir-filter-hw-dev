@@ -9,3 +9,5 @@ module filter_ctrl (
     end
 endmodule
 // Updated logic section 65
+
+// TODO: Optimize this block in future refactor
